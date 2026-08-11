@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Me in a nutshell:
 Full-stack developer. <br>Looking to collaborate with organizations keen on helping people and making a change<br>Currently learning Machine Learning and AI engineering.<br>In love with math, basketball and writing.
 
 
